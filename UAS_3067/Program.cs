@@ -58,7 +58,7 @@ namespace UAS_3067
                     return;
                 }
                 newnode.next = START;
-                START = newnode;
+                START = newnode; 
                 return;
             }
 
